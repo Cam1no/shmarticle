@@ -3,5 +3,5 @@
   text/x-json
   application/json
  )
- 
- Mime::Type.register 'application/vnd.api+json', :json, api_mine_types
+
+ Mime::Type.register 'application/vnd.api+json', :json, api_mime_types
